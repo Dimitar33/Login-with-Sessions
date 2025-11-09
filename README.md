@@ -1,6 +1,6 @@
 # PHP-Login
 
-Simple, easy-to-use, and database-free login system.
+Web Application Development Workshop 2
 
 ## How it works
 
